@@ -1,7 +1,8 @@
+# About Me
 - 👋 Hi, I’m @hh0202
 - 🏫 I’m currently studying computer science at Ho Chi Minh City University of Science (HCMUS)
 - 🤯 Fun fact: I failed Discrete Mathematics💸
-- 💻 Asus Q505UAR-BI5T9 laptop
+- 💻 Asus Q505UAR-BI5T9
 - 🤖 Interested in Artificial Intelligence (may change later if needed)
 
 <img src="thumbsup.png" width="300" />
