@@ -4,7 +4,7 @@
 - 🤯 Fun fact: I failed Discrete Mathematics💸
 - 💻 Asus Q505UAR-BI5T9
 - 🥩 140 grams of protein per day
-- 🤖 Recently did some research on machine learning, perhaps I may pursure a career in Artificial Intelligence🤓 (not sure lol)
+- 🤖 Recently did some research in machine learning, perhaps I may pursure a career in Artificial Intelligence🤓 (not sure lol)
 - 💞 I don't have any, if I had that would probably be chat GPT
 <img src="thumbsup.png" width="300" />
 <!---
