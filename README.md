@@ -7,6 +7,7 @@
 - 💞 I don't have any, if I had that would probably be chatGPT 
 <img src="thumbsup.png" width="300" />
 - 😭 Gửi đến diễn viên phim séc tôi yêu
+
 "Anh chỉ mong mình được làm bạn chỉ mong tình đừng cạn chỉ 1 cơ hội thôi chỉ 1 trong hàng vạn
 Lời khước từ nó vừa là cái cớ nhưng cũng là ái ố hỉ nộ trong làn đạn
 Thời gian trôi vài ba câu tản mạn tại sao môi càng nhấp rượu trong ly càng cạn
